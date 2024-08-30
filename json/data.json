@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "2021- Emiliano Martínez",
+        "precio": 110000,
+        "imagen":"../img/2021emiliano.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "2022- Emiliano Martínez",
+        "precio": 120000,
+        "imagen": "../img/2022emiliano.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "2024- Emiliano Martínez",
+        "precio": 125000,
+        "imagen": "../img/2024emiliano.webp"
+    }
+]
