@@ -57,8 +57,8 @@ function vaciarCarrito() {
 
 function comprar() {
     Swal.fire({
-        title: '¡Felicitaciones!',
-        text: 'Has realizado la compra con éxito.',
+        title: 'Felicitaciones tienes tu casaca!',
+        text: 'Realizaste una buena compra',
         icon: 'success',
         confirmButtonText: 'Aceptar'
     }).then(() => {
@@ -139,7 +139,7 @@ if (!Array.isArray(carritoE)) {
             actualizarCarritoE();
             Swal.fire({
                 icon: 'success',
-                title: 'Compra Realizada',
+                title: 'Felicitaciones tienes tu casaca!',
                 text: 'Envianos tu talle en "subscribirte".',
             });
         } else {
